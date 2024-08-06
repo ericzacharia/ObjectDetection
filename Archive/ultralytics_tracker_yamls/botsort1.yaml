@@ -1,0 +1,77 @@
+# BoT-SORT tracker https://github.com/NirAharon/BoT-SORT
+
+# tracker_type: This specifies the type of tracker being used. In your case, 'bytetrack' is selected. 
+# ByteTrack is known for its efficiency and accuracy in tracking multiple objects even with occlusions or in crowded scenes.
+
+# track_high_thresh: This is the high threshold for the first association in tracking. 
+# It's a confidence threshold used to determine if an object detected by the YOLO model should initially be considered for tracking. 
+# A higher threshold means only detections with high confidence are tracked, potentially reducing false positives but possibly missing less confident true objects.
+
+# track_low_thresh: This is the lower threshold for the second association. 
+# Once an object is being tracked, this threshold is used in subsequent frames to decide if a detected object continues to match with the existing track. 
+# A lower threshold here allows for more lenient tracking, which can be useful in maintaining track of objects even when the model's confidence in them dips temporarily.
+
+# new_track_thresh: This threshold is used to initiate a new track if a detection does not match any existing tracks. 
+# It determines how confident the model should be to start tracking a new object. 
+# A higher value means fewer new tracks will be created, reducing clutter but possibly missing real objects.
+
+# track_buffer: This setting determines the buffer time to calculate when to remove tracks. 
+# It's essentially the number of frames an object can be missing or not detected before its track is terminated. 
+# A larger buffer allows tracks to be maintained even when objects are occluded or miss detection for a few frames.
+
+# match_thresh: This is the threshold for matching tracks between frames. 
+# It's used in the data association step to decide whether a detected 
+# object in the current frame matches an existing track. 
+# A higher threshold ensures that only detections very similar to the existing track 
+# are matched, reducing identity switches but potentially losing track more often.
+
+# gmc_method: This setting, standing for Global Motion Compensation, is specific to BoT-SORT. 
+    # sparseOptFlow: method compensates for camera motion by using optical flow techniques, 
+    # helping maintain track stability even with moving cameras.
+
+    # orb: ORB is a fast feature detector and descriptor. It is used for detecting keypoints and computing 
+    # descriptors that can be matched across frames.
+    # ORB is useful for tracking objects in scenarios where you need a balance between speed and accuracy. 
+    # It's less sensitive to changes in lighting compared to some other methods.
+
+    # sift: SIFT is a more computationally intensive method compared to ORB, used for detecting and describing local features in images.
+    # SIFT is highly robust against changes in scale, noise, and illumination, making it suitable for applications where 
+    # high accuracy is required, even if it means slower processing.
+
+    # ecc: ECC is an algorithm for aligning images (finding the optimal spatial transformation between them). 
+    # It's particularly good at handling small motions and subtle transformations.
+    # ECC can be used for precise alignment of video frames, which is useful in situations where 
+    # the camera is moving slightly or where very accurate tracking of objects is required.
+
+# proximity_thresh: A threshold for proximity-based matching in tracking. 
+# It likely influences how close in terms of spatial distance a detected object needs to be across frames to be considered the same object.
+# For instance, if the distance metric is based on the relative positions of bounding boxes in a normalized coordinate space 
+# (like a frame of 1080p video being scaled to a 1x1 square), 
+# 0.5 could mean that the centers of the bounding boxes are at most half the width/height of the normalized space apart.
+
+# appearance_thresh: This threshold might be related to appearance-based matching, determining how similar in appearance 
+# a detected object needs to be across frames to maintain the same track. 
+# This threshold is a normalized value, where 0.0 would represent no requirement for appearance similarity (any object could be matched with any other), 
+# and 1.0 would represent a requirement for exact appearance matching. 
+# Thus, a value of 0.25 indicates a relatively lenient requirement for appearance similarity. 
+# It allows for some variation in how an object appears across frames, which can be useful in dynamic environments where lighting, orientation, or partial occlusions 
+# might slightly alter an object's appearance.
+
+# with_reid: Indicates whether Re-identification (ReID) features are used. ReID involves using features based on the object’s appearance 
+# to re-identify and track objects across different camera views or after long periods of occlusion. False indicates it is not currently used.
+
+tracker_type: botsort  # tracker type, ['botsort', 'bytetrack']
+track_high_thresh: 0.5  # threshold for the first association
+track_low_thresh: 0.01  # threshold for the second association
+new_track_thresh: 0.6  # threshold for init new track if the detection does not match any tracks
+track_buffer: 99999  # buffer to calculate the time when to remove tracks
+match_thresh: 0.99 # threshold for matching tracks
+# min_box_area: 10  # threshold for min box areas(for tracker evaluation, not used for now)
+# mot20: False  # for tracker evaluation(not used for now)
+
+# BoT-SORT settings
+gmc_method: sparseOptFlow  # method of global motion compensation [sparseOptFlow, orb, sift, ecc]
+# ReID model related thresh (not supported yet)
+proximity_thresh: 0.95
+appearance_thresh: 0.91
+with_reid: True

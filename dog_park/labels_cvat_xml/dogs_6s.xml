@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <job>
+      <id>495870</id>
+      <size>155</size>
+      <mode>interpolation</mode>
+      <overlap>5</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-12-27 16:18:29.784571+00:00</created>
+      <updated>2023-12-27 17:05:53.030252+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>154</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>496492</id>
+          <start>0</start>
+          <stop>154</stop>
+          <url>https://app.cvat.ai/api/jobs/495870</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>ericzacharia</username>
+        <email>ekzacharia@gmail.com</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>dog</name>
+          <color>#406040</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </job>
+    <dumped>2023-12-27 17:06:08.316366+00:00</dumped>
+    <original_size>
+      <width>1920</width>
+      <height>1080</height>
+    </original_size>
+  </meta>
+  <image id="0" name="frame_000000" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="853.91" ytl="613.91" xbr="887.83" ybr="647.83" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1567.31" ytl="455.82" xbr="1606.42" ybr="492.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.43" ytl="361.38" xbr="807.93" ybr="388.18" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="frame_000001" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.78" ytl="613.04" xbr="887.83" ybr="644.35" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1567.91" ytl="455.32" xbr="1606.62" ybr="491.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.73" ytl="361.18" xbr="807.93" ybr="389.58" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="frame_000002" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="852.72" ytl="613.04" xbr="887.44" ybr="644.79" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1566.81" ytl="458.32" xbr="1606.42" ybr="491.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.73" ytl="361.57" xbr="807.73" ybr="389.58" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="frame_000003" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.65" ytl="613.04" xbr="887.83" ybr="645.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1566.30" ytl="458.40" xbr="1606.80" ybr="489.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.22" ytl="361.58" xbr="807.73" ybr="389.78" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="frame_000004" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.68" ytl="612.96" xbr="887.25" ybr="645.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1566.31" ytl="460.62" xbr="1606.81" ybr="489.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.20" ytl="361.50" xbr="807.50" ybr="389.80" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="frame_000005" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.81" ytl="612.71" xbr="887.01" ybr="645.53" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1567.61" ytl="460.32" xbr="1606.22" ybr="492.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.80" ytl="361.60" xbr="807.50" ybr="389.90" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="frame_000006" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.06" ytl="613.58" xbr="886.64" ybr="645.84" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1569.12" ytl="459.72" xbr="1606.32" ybr="490.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="774.80" ytl="361.30" xbr="807.10" ybr="387.10" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="frame_000007" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="613.33" xbr="886.39" ybr="646.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1570.61" ytl="460.42" xbr="1608.52" ybr="491.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.90" ytl="361.30" xbr="807.10" ybr="388.60" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="frame_000008" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="615.19" xbr="884.53" ybr="646.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1569.62" ytl="458.72" xbr="1607.02" ybr="491.12" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.90" ytl="362.00" xbr="806.50" ybr="388.60" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="frame_000009" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.05" ytl="615.19" xbr="884.53" ybr="644.91" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1571.51" ytl="458.72" xbr="1606.52" ybr="490.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.10" ytl="360.50" xbr="807.80" ybr="387.50" z_order="0">
+    </box>
+  </image>
+  <image id="10" name="frame_000010" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.05" ytl="614.57" xbr="883.29" ybr="644.91" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1572.72" ytl="457.62" xbr="1606.52" ybr="489.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.10" ytl="361.10" xbr="807.10" ybr="387.50" z_order="0">
+    </box>
+  </image>
+  <image id="11" name="frame_000011" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="614.57" xbr="885.80" ybr="644.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1572.91" ytl="459.62" xbr="1602.92" ybr="489.12" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.10" ytl="361.10" xbr="807.10" ybr="388.60" z_order="0">
+    </box>
+  </image>
+  <image id="12" name="frame_000012" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="616.40" xbr="885.80" ybr="644.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1573.92" ytl="460.62" xbr="1602.92" ybr="489.12" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.20" ytl="362.60" xbr="806.90" ybr="388.60" z_order="0">
+    </box>
+  </image>
+  <image id="13" name="frame_000013" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.05" ytl="616.40" xbr="887.00" ybr="643.67" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1576.31" ytl="461.12" xbr="1602.72" ybr="490.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.05" ytl="361.95" xbr="807.36" ybr="389.65" z_order="0">
+    </box>
+  </image>
+  <image id="14" name="frame_000014" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.05" ytl="617.00" xbr="887.00" ybr="643.67" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1576.12" ytl="459.02" xbr="1602.72" ybr="489.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.10" ytl="362.00" xbr="808.00" ybr="389.60" z_order="0">
+    </box>
+  </image>
+  <image id="15" name="frame_000015" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.62" ytl="618.60" xbr="886.00" ybr="644.60" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1576.51" ytl="459.02" xbr="1602.12" ybr="490.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.55" ytl="361.95" xbr="807.36" ybr="387.15" z_order="0">
+    </box>
+  </image>
+  <image id="16" name="frame_000016" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="618.90" xbr="884.50" ybr="644.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1577.42" ytl="458.92" xbr="1601.92" ybr="489.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.56" ytl="362.54" xbr="807.06" ybr="387.15" z_order="0">
+    </box>
+  </image>
+  <image id="17" name="frame_000017" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="619.50" xbr="883.90" ybr="643.67" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1575.91" ytl="458.90" xbr="1600.62" ybr="489.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="774.30" ytl="362.50" xbr="806.70" ybr="388.10" z_order="0">
+    </box>
+  </image>
+  <image id="18" name="frame_000018" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="618.90" xbr="883.90" ybr="643.67" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1576.02" ytl="459.32" xbr="1600.62" ybr="490.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.20" ytl="361.90" xbr="806.10" ybr="387.70" z_order="0">
+    </box>
+  </image>
+  <image id="19" name="frame_000019" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.05" ytl="619.50" xbr="884.50" ybr="641.81" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1575.91" ytl="461.32" xbr="1601.31" ybr="490.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="362.00" xbr="806.10" ybr="387.90" z_order="0">
+    </box>
+  </image>
+  <image id="20" name="frame_000020" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="618.91" xbr="887.01" ybr="643.05" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1579.52" ytl="461.42" xbr="1600.31" ybr="492.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="363.50" xbr="805.70" ybr="387.90" z_order="0">
+    </box>
+  </image>
+  <image id="21" name="frame_000021" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.68" ytl="618.53" xbr="888.49" ybr="643.98" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1579.51" ytl="460.52" xbr="1600.72" ybr="492.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="363.59" xbr="805.71" ybr="387.59" z_order="0">
+    </box>
+  </image>
+  <image id="22" name="frame_000022" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="617.67" xbr="888.25" ybr="644.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1578.81" ytl="459.82" xbr="1600.21" ybr="490.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="363.80" xbr="805.60" ybr="388.10" z_order="0">
+    </box>
+  </image>
+  <image id="23" name="frame_000023" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.43" ytl="615.19" xbr="890.10" ybr="644.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1578.11" ytl="458.42" xbr="1601.81" ybr="491.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.20" ytl="364.00" xbr="805.40" ybr="390.00" z_order="0">
+    </box>
+  </image>
+  <image id="24" name="frame_000024" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.05" ytl="615.19" xbr="890.10" ybr="644.91" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1576.62" ytl="458.42" xbr="1601.82" ybr="491.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.30" ytl="363.70" xbr="806.50" ybr="390.30" z_order="0">
+    </box>
+  </image>
+  <image id="25" name="frame_000025" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="856.30" ytl="617.91" xbr="889.73" ybr="645.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1575.51" ytl="457.62" xbr="1601.12" ybr="490.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.10" ytl="362.80" xbr="806.00" ybr="390.10" z_order="0">
+    </box>
+  </image>
+  <image id="26" name="frame_000026" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.81" ytl="616.43" xbr="888.86" ybr="646.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1572.90" ytl="453.20" xbr="1600.80" ybr="491.10" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.80" ytl="361.89" xbr="805.81" ybr="392.99" z_order="0">
+    </box>
+  </image>
+  <image id="27" name="frame_000027" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.81" ytl="615.19" xbr="888.86" ybr="646.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1571.91" ytl="453.92" xbr="1600.12" ybr="489.12" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="362.30" xbr="804.10" ybr="393.90" z_order="0">
+    </box>
+  </image>
+  <image id="28" name="frame_000028" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.81" ytl="615.19" xbr="888.86" ybr="645.53" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1570.22" ytl="452.92" xbr="1598.42" ybr="489.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.20" ytl="362.80" xbr="803.40" ybr="394.20" z_order="0">
+    </box>
+  </image>
+  <image id="29" name="frame_000029" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.81" ytl="613.33" xbr="889.48" ybr="645.53" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1569.80" ytl="452.50" xbr="1598.60" ybr="489.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.80" ytl="363.70" xbr="802.50" ybr="395.20" z_order="0">
+    </box>
+  </image>
+  <image id="30" name="frame_000030" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="857.29" ytl="613.33" xbr="889.48" ybr="644.91" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1568.90" ytl="452.60" xbr="1596.90" ybr="491.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="363.40" xbr="802.30" ybr="395.50" z_order="0">
+    </box>
+  </image>
+  <image id="31" name="frame_000031" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.44" ytl="612.34" xbr="889.73" ybr="646.46" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1567.30" ytl="450.90" xbr="1597.50" ybr="491.10" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.60" ytl="363.70" xbr="801.50" ybr="395.50" z_order="0">
+    </box>
+  </image>
+  <image id="32" name="frame_000032" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="854.81" ytl="612.09" xbr="889.48" ybr="645.53" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1565.70" ytl="453.00" xbr="1596.90" ybr="492.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.00" ytl="363.79" xbr="801.51" ybr="395.59" z_order="0">
+    </box>
+  </image>
+  <image id="33" name="frame_000033" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="853.04" ytl="612.17" xbr="889.56" ybr="647.83" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1564.21" ytl="453.72" xbr="1596.72" ybr="492.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.01" ytl="363.88" xbr="799.61" ybr="395.59" z_order="0">
+    </box>
+  </image>
+  <image id="34" name="frame_000034" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.65" ytl="612.17" xbr="889.56" ybr="647.83" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1562.22" ytl="454.32" xbr="1596.22" ybr="492.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.70" ytl="363.90" xbr="799.60" ybr="397.20" z_order="0">
+    </box>
+  </image>
+  <image id="35" name="frame_000035" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="855.65" ytl="612.17" xbr="888.70" ybr="647.83" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1560.01" ytl="453.72" xbr="1596.12" ybr="492.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.70" ytl="364.00" xbr="798.10" ybr="397.20" z_order="0">
+    </box>
+  </image>
+  <image id="36" name="frame_000036" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="857.39" ytl="611.30" xbr="888.70" ybr="646.09" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1558.31" ytl="454.02" xbr="1596.21" ybr="492.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.00" ytl="363.19" xbr="797.31" ybr="395.99" z_order="0">
+    </box>
+  </image>
+  <image id="37" name="frame_000037" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="860.00" ytl="608.70" xbr="888.70" ybr="643.48" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1556.61" ytl="455.22" xbr="1595.62" ybr="492.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.00" ytl="362.90" xbr="794.40" ybr="396.00" z_order="0">
+    </box>
+  </image>
+  <image id="38" name="frame_000038" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="860.00" ytl="607.83" xbr="888.70" ybr="642.61" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1554.81" ytl="459.72" xbr="1595.02" ybr="492.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.90" ytl="361.69" xbr="794.11" ybr="396.19" z_order="0">
+    </box>
+  </image>
+  <image id="39" name="frame_000039" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="862.61" ytl="606.09" xbr="889.56" ybr="640.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1553.21" ytl="459.62" xbr="1595.02" ybr="492.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.80" ytl="360.20" xbr="791.30" ybr="396.70" z_order="0">
+    </box>
+  </image>
+  <image id="40" name="frame_000040" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="865.54" ytl="605.76" xbr="886.94" ybr="639.85" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1550.92" ytl="461.22" xbr="1595.02" ybr="493.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.70" ytl="360.29" xbr="791.31" ybr="396.69" z_order="0">
+    </box>
+  </image>
+  <image id="41" name="frame_000041" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="867.66" ytl="603.10" xbr="886.84" ybr="640.43" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1549.51" ytl="460.82" xbr="1595.12" ybr="492.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.31" ytl="360.78" xbr="790.81" ybr="396.99" z_order="0">
+    </box>
+  </image>
+  <image id="42" name="frame_000042" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="867.68" ytl="602.58" xbr="887.84" ybr="640.43" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1547.22" ytl="460.12" xbr="1593.32" ybr="493.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.20" ytl="361.99" xbr="790.61" ybr="396.99" z_order="0">
+    </box>
+  </image>
+  <image id="43" name="frame_000043" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="868.28" ytl="602.53" xbr="887.94" ybr="639.36" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1544.21" ytl="459.92" xbr="1589.31" ybr="491.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.80" ytl="364.20" xbr="790.00" ybr="399.00" z_order="0">
+    </box>
+  </image>
+  <image id="44" name="frame_000044" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="868.53" ytl="604.02" xbr="887.94" ybr="638.86" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1541.80" ytl="459.30" xbr="1585.70" ybr="493.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.30" ytl="365.40" xbr="790.20" ybr="397.60" z_order="0">
+    </box>
+  </image>
+  <image id="45" name="frame_000045" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="869.03" ytl="603.03" xbr="888.44" ybr="638.11" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1538.61" ytl="458.91" xbr="1584.81" ybr="493.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.01" ytl="366.68" xbr="790.51" ybr="400.89" z_order="0">
+    </box>
+  </image>
+  <image id="46" name="frame_000046" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="869.43" ytl="603.32" xbr="889.33" ybr="638.68" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1536.01" ytl="461.22" xbr="1582.81" ybr="493.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.40" ytl="365.50" xbr="790.50" ybr="400.00" z_order="0">
+    </box>
+  </image>
+  <image id="47" name="frame_000047" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="869.03" ytl="602.78" xbr="890.18" ybr="635.87" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1533.81" ytl="463.01" xbr="1577.51" ybr="493.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.50" ytl="365.00" xbr="791.40" ybr="400.50" z_order="0">
+    </box>
+  </image>
+  <image id="48" name="frame_000048" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="871.66" ytl="597.85" xbr="890.08" ybr="629.97" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1530.41" ytl="462.02" xbr="1573.91" ybr="492.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.40" ytl="366.09" xbr="791.91" ybr="401.89" z_order="0">
+    </box>
+  </image>
+  <image id="49" name="frame_000049" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="877.99" ytl="597.80" xbr="890.18" ybr="629.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1527.51" ytl="461.11" xbr="1572.41" ybr="493.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.41" ytl="366.78" xbr="793.20" ybr="401.89" z_order="0">
+    </box>
+  </image>
+  <image id="50" name="frame_000050" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="882.62" ytl="587.20" xbr="912.00" ybr="625.99" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1524.40" ytl="460.40" xbr="1569.10" ybr="491.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.90" ytl="366.89" xbr="793.21" ybr="407.29" z_order="0">
+    </box>
+  </image>
+  <image id="51" name="frame_000051" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="903.13" ytl="586.37" xbr="915.14" ybr="627.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1522.50" ytl="459.50" xbr="1565.60" ybr="491.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="778.21" ytl="367.88" xbr="794.41" ybr="408.49" z_order="0">
+    </box>
+  </image>
+  <image id="52" name="frame_000052" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="904.93" ytl="582.76" xbr="917.84" ybr="613.26" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1519.51" ytl="459.92" xbr="1563.51" ybr="492.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="778.40" ytl="369.90" xbr="793.20" ybr="405.80" z_order="0">
+    </box>
+  </image>
+  <image id="53" name="frame_000053" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="908.96" ytl="581.40" xbr="918.20" ybr="616.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1516.71" ytl="458.61" xbr="1558.91" ybr="493.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="778.50" ytl="371.00" xbr="791.60" ybr="405.80" z_order="0">
+    </box>
+  </image>
+  <image id="54" name="frame_000054" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="907.35" ytl="579.88" xbr="924.52" ybr="614.47" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1513.31" ytl="458.72" xbr="1555.81" ybr="491.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="778.30" ytl="370.49" xbr="792.10" ybr="404.70" z_order="0">
+    </box>
+  </image>
+  <image id="55" name="frame_000055" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="906.05" ytl="575.95" xbr="928.86" ybr="612.95" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1509.51" ytl="457.21" xbr="1552.81" ybr="492.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="779.71" ytl="369.78" xbr="793.61" ybr="409.19" z_order="0">
+    </box>
+  </image>
+  <image id="56" name="frame_000056" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="910.15" ytl="575.35" xbr="936.46" ybr="611.95" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1505.01" ytl="459.42" xbr="1548.71" ybr="492.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="779.80" ytl="371.00" xbr="794.80" ybr="409.10" z_order="0">
+    </box>
+  </image>
+  <image id="57" name="frame_000057" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="909.90" ytl="573.40" xbr="940.30" ybr="612.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1499.81" ytl="460.11" xbr="1547.91" ybr="494.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="779.51" ytl="372.28" xbr="794.11" ybr="411.39" z_order="0">
+    </box>
+  </image>
+  <image id="58" name="frame_000058" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="909.60" ytl="572.00" xbr="945.10" ybr="604.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1494.81" ytl="458.52" xbr="1542.41" ybr="493.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.60" ytl="372.19" xbr="797.71" ybr="412.19" z_order="0">
+    </box>
+  </image>
+  <image id="59" name="frame_000059" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="911.90" ytl="571.50" xbr="953.30" ybr="600.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1490.71" ytl="458.21" xbr="1534.61" ybr="490.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.51" ytl="371.08" xbr="798.31" ybr="413.29" z_order="0">
+    </box>
+  </image>
+  <image id="60" name="frame_000060" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="913.20" ytl="569.20" xbr="957.10" ybr="600.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1488.11" ytl="459.50" xbr="1530.60" ybr="491.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.80" ytl="370.69" xbr="799.51" ybr="410.99" z_order="0">
+    </box>
+  </image>
+  <image id="61" name="frame_000061" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="918.10" ytl="569.50" xbr="960.00" ybr="597.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1485.70" ytl="457.90" xbr="1526.10" ybr="488.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.80" ytl="372.20" xbr="799.20" ybr="411.70" z_order="0">
+    </box>
+  </image>
+  <image id="62" name="frame_000062" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="924.05" ytl="563.35" xbr="963.16" ybr="596.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1483.61" ytl="455.22" xbr="1520.31" ybr="487.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="775.50" ytl="373.09" xbr="801.11" ybr="412.19" z_order="0">
+    </box>
+  </image>
+  <image id="63" name="frame_000063" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="927.86" ytl="559.25" xbr="964.76" ybr="591.35" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1479.91" ytl="450.91" xbr="1517.61" ybr="488.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="776.61" ytl="373.30" xbr="799.20" ybr="413.79" z_order="0">
+    </box>
+  </image>
+  <image id="64" name="frame_000064" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="933.06" ytl="555.54" xbr="967.16" ybr="590.85" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1477.11" ytl="452.32" xbr="1513.61" ybr="487.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.70" ytl="374.70" xbr="801.20" ybr="411.80" z_order="0">
+    </box>
+  </image>
+  <image id="65" name="frame_000065" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="940.30" ytl="551.40" xbr="971.20" ybr="591.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1473.31" ytl="452.21" xbr="1510.51" ybr="489.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="777.80" ytl="375.40" xbr="801.70" ybr="413.10" z_order="0">
+    </box>
+  </image>
+  <image id="66" name="frame_000066" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="944.95" ytl="546.95" xbr="976.96" ybr="590.05" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1469.61" ytl="450.52" xbr="1505.71" ybr="488.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="778.20" ytl="375.60" xbr="804.10" ybr="414.60" z_order="0">
+    </box>
+  </image>
+  <image id="67" name="frame_000067" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="948.70" ytl="543.90" xbr="981.90" ybr="584.50" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1463.21" ytl="450.21" xbr="1502.51" ybr="487.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="779.10" ytl="377.00" xbr="804.60" ybr="414.20" z_order="0">
+    </box>
+  </image>
+  <image id="68" name="frame_000068" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="952.00" ytl="539.60" xbr="987.10" ybr="575.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1455.31" ytl="449.82" xbr="1500.31" ybr="486.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="780.70" ytl="375.70" xbr="805.80" ybr="414.90" z_order="0">
+    </box>
+  </image>
+  <image id="69" name="frame_000069" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="954.06" ytl="537.54" xbr="989.76" ybr="569.05" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1453.71" ytl="451.01" xbr="1496.21" ybr="486.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="782.90" ytl="373.70" xbr="806.20" ybr="415.80" z_order="0">
+    </box>
+  </image>
+  <image id="70" name="frame_000070" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="960.05" ytl="533.85" xbr="992.26" ybr="566.25" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1451.01" ytl="450.52" xbr="1488.41" ybr="484.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="784.30" ytl="373.20" xbr="807.00" ybr="413.00" z_order="0">
+    </box>
+  </image>
+  <image id="71" name="frame_000071" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="968.06" ytl="530.74" xbr="995.66" ybr="560.75" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1447.90" ytl="448.70" xbr="1485.20" ybr="482.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="785.30" ytl="373.70" xbr="807.50" ybr="413.60" z_order="0">
+    </box>
+  </image>
+  <image id="72" name="frame_000072" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="975.10" ytl="524.00" xbr="999.80" ybr="557.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1444.11" ytl="445.92" xbr="1480.41" ybr="481.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="785.60" ytl="374.60" xbr="808.90" ybr="413.90" z_order="0">
+    </box>
+  </image>
+  <image id="73" name="frame_000073" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="980.80" ytl="520.00" xbr="1001.30" ybr="554.60" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1441.81" ytl="444.11" xbr="1476.81" ybr="479.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="785.40" ytl="376.40" xbr="811.10" ybr="414.90" z_order="0">
+    </box>
+  </image>
+  <image id="74" name="frame_000074" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="983.80" ytl="514.00" xbr="1008.00" ybr="551.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1439.51" ytl="442.62" xbr="1474.61" ybr="477.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="785.70" ytl="375.60" xbr="810.80" ybr="413.80" z_order="0">
+    </box>
+  </image>
+  <image id="75" name="frame_000075" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="985.90" ytl="508.00" xbr="1011.80" ybr="552.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1435.41" ytl="441.11" xbr="1471.31" ybr="479.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="785.50" ytl="377.40" xbr="812.50" ybr="414.80" z_order="0">
+    </box>
+  </image>
+  <image id="76" name="frame_000076" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="990.55" ytl="505.55" xbr="1013.26" ybr="546.10" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1433.41" ytl="439.72" xbr="1468.11" ybr="478.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="786.10" ytl="378.30" xbr="813.90" ybr="415.40" z_order="0">
+    </box>
+  </image>
+  <image id="77" name="frame_000077" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="993.96" ytl="501.14" xbr="1018.96" ybr="540.95" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1429.41" ytl="438.61" xbr="1464.51" ybr="476.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="787.20" ytl="379.00" xbr="816.00" ybr="415.60" z_order="0">
+    </box>
+  </image>
+  <image id="78" name="frame_000078" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="999.75" ytl="497.85" xbr="1021.76" ybr="530.95" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1424.31" ytl="436.72" xbr="1459.51" ybr="475.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="787.20" ytl="379.20" xbr="818.20" ybr="416.90" z_order="0">
+    </box>
+  </image>
+  <image id="79" name="frame_000079" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1003.56" ytl="494.84" xbr="1024.06" ybr="529.65" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1419.41" ytl="437.11" xbr="1458.01" ybr="474.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="786.50" ytl="380.88" xbr="820.21" ybr="416.89" z_order="0">
+    </box>
+  </image>
+  <image id="80" name="frame_000080" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1008.45" ytl="490.55" xbr="1027.26" ybr="521.45" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1416.01" ytl="436.02" xbr="1453.00" ybr="473.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="786.40" ytl="381.40" xbr="821.40" ybr="416.80" z_order="0">
+    </box>
+  </image>
+  <image id="81" name="frame_000081" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1012.56" ytl="486.04" xbr="1028.95" ybr="517.95" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1413.31" ytl="436.21" xbr="1446.01" ybr="471.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="786.80" ytl="380.20" xbr="823.30" ybr="416.60" z_order="0">
+    </box>
+  </image>
+  <image id="82" name="frame_000082" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1016.15" ytl="482.25" xbr="1033.06" ybr="510.65" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1409.91" ytl="434.62" xbr="1442.91" ybr="470.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="788.00" ytl="379.50" xbr="824.40" ybr="414.80" z_order="0">
+    </box>
+  </image>
+  <image id="83" name="frame_000083" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1019.56" ytl="476.14" xbr="1036.66" ybr="512.45" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1407.50" ytl="432.80" xbr="1439.30" ybr="466.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="789.60" ytl="380.40" xbr="826.80" ybr="416.00" z_order="0">
+    </box>
+  </image>
+  <image id="84" name="frame_000084" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1023.85" ytl="471.55" xbr="1041.36" ybr="511.85" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1404.91" ytl="430.91" xbr="1437.21" ybr="465.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="790.60" ytl="382.40" xbr="828.80" ybr="416.90" z_order="0">
+    </box>
+  </image>
+  <image id="85" name="frame_000085" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1026.65" ytl="467.10" xbr="1045.66" ybr="506.55" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1402.01" ytl="428.62" xbr="1433.71" ybr="465.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="792.30" ytl="384.20" xbr="830.30" ybr="417.50" z_order="0">
+    </box>
+  </image>
+  <image id="86" name="frame_000086" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1032.25" ytl="462.35" xbr="1049.36" ybr="490.55" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1397.41" ytl="427.81" xbr="1429.31" ybr="466.12" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="793.00" ytl="384.30" xbr="831.60" ybr="419.00" z_order="0">
+    </box>
+  </image>
+  <image id="87" name="frame_000087" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1033.76" ytl="459.94" xbr="1053.26" ybr="490.15" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1393.31" ytl="426.22" xbr="1424.01" ybr="464.12" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="793.10" ytl="383.90" xbr="833.10" ybr="418.60" z_order="0">
+    </box>
+  </image>
+  <image id="88" name="frame_000088" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1039.45" ytl="456.75" xbr="1057.86" ybr="489.75" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1387.01" ytl="425.11" xbr="1423.31" ybr="462.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="795.30" ytl="384.50" xbr="834.10" ybr="418.90" z_order="0">
+    </box>
+  </image>
+  <image id="89" name="frame_000089" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1042.96" ytl="454.65" xbr="1060.16" ybr="483.50" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1383.31" ytl="425.12" xbr="1419.51" ybr="460.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="798.60" ytl="383.90" xbr="835.50" ybr="419.60" z_order="0">
+    </box>
+  </image>
+  <image id="90" name="frame_000090" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1047.90" ytl="448.10" xbr="1060.80" ybr="475.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1378.21" ytl="424.11" xbr="1414.51" ybr="460.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="801.40" ytl="384.00" xbr="837.20" ybr="420.90" z_order="0">
+    </box>
+  </image>
+  <image id="91" name="frame_000091" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1050.95" ytl="440.85" xbr="1064.16" ybr="469.45" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1373.31" ytl="423.12" xbr="1406.51" ybr="456.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="804.30" ytl="382.10" xbr="839.00" ybr="420.90" z_order="0">
+    </box>
+  </image>
+  <image id="92" name="frame_000092" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1054.00" ytl="435.25" xbr="1066.16" ybr="469.35" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1369.11" ytl="420.12" xbr="1400.71" ybr="450.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="805.20" ytl="383.50" xbr="840.20" ybr="419.90" z_order="0">
+    </box>
+  </image>
+  <image id="93" name="frame_000093" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1056.70" ytl="429.50" xbr="1070.80" ybr="469.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1365.81" ytl="417.02" xbr="1398.91" ybr="448.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="805.30" ytl="384.98" xbr="841.81" ybr="421.39" z_order="0">
+    </box>
+  </image>
+  <image id="94" name="frame_000094" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1057.90" ytl="424.40" xbr="1073.90" ybr="464.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1361.90" ytl="414.80" xbr="1395.10" ybr="448.50" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="806.60" ytl="384.20" xbr="842.80" ybr="422.40" z_order="0">
+    </box>
+  </image>
+  <image id="95" name="frame_000095" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1062.00" ytl="420.80" xbr="1076.80" ybr="454.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1355.11" ytl="411.02" xbr="1388.41" ybr="447.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="808.20" ytl="384.70" xbr="845.30" ybr="422.20" z_order="0">
+    </box>
+  </image>
+  <image id="96" name="frame_000096" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1066.10" ytl="417.50" xbr="1078.60" ybr="447.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1349.10" ytl="410.70" xbr="1386.40" ybr="448.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="807.41" ytl="386.28" xbr="849.20" ybr="425.18" z_order="0">
+    </box>
+  </image>
+  <image id="97" name="frame_000097" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1067.30" ytl="412.80" xbr="1081.20" ybr="444.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1341.21" ytl="407.42" xbr="1381.42" ybr="446.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="807.00" ytl="388.20" xbr="850.20" ybr="425.80" z_order="0">
+    </box>
+  </image>
+  <image id="98" name="frame_000098" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1072.00" ytl="407.80" xbr="1083.90" ybr="437.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1336.11" ytl="406.01" xbr="1376.21" ybr="441.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="808.20" ytl="388.80" xbr="852.00" ybr="424.00" z_order="0">
+    </box>
+  </image>
+  <image id="99" name="frame_000099" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1073.20" ytl="402.60" xbr="1084.70" ybr="432.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1332.01" ytl="403.52" xbr="1373.01" ybr="438.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="809.90" ytl="386.50" xbr="853.00" ybr="423.70" z_order="0">
+    </box>
+  </image>
+  <image id="100" name="frame_000100" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1076.40" ytl="395.90" xbr="1088.30" ybr="429.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1327.10" ytl="403.00" xbr="1368.00" ybr="433.60" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="812.90" ytl="387.40" xbr="854.30" ybr="424.50" z_order="0">
+    </box>
+  </image>
+  <image id="101" name="frame_000101" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1078.37" ytl="390.34" xbr="1090.03" ybr="429.94" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1322.21" ytl="401.62" xbr="1365.11" ybr="433.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="816.40" ytl="389.20" xbr="855.90" ybr="424.90" z_order="0">
+    </box>
+  </image>
+  <image id="102" name="frame_000102" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1080.67" ytl="384.29" xbr="1092.91" ybr="421.58" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1317.41" ytl="397.01" xbr="1354.61" ybr="430.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="817.81" ytl="391.08" xbr="857.31" ybr="425.48" z_order="0">
+    </box>
+  </image>
+  <image id="103" name="frame_000103" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1081.54" ytl="379.82" xbr="1095.50" ybr="414.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1311.10" ytl="392.10" xbr="1348.60" ybr="427.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="820.10" ytl="391.30" xbr="859.30" ybr="426.20" z_order="0">
+    </box>
+  </image>
+  <image id="104" name="frame_000104" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1083.84" ytl="375.79" xbr="1097.81" ybr="411.07" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1307.61" ytl="390.81" xbr="1339.61" ybr="425.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="820.81" ytl="391.08" xbr="862.60" ybr="424.18" z_order="0">
+    </box>
+  </image>
+  <image id="105" name="frame_000105" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1085.38" ytl="372.65" xbr="1098.20" ybr="404.49" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1300.11" ytl="388.32" xbr="1333.32" ybr="423.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="822.00" ytl="390.08" xbr="862.21" ybr="425.89" z_order="0">
+    </box>
+  </image>
+  <image id="106" name="frame_000106" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1088.02" ytl="368.74" xbr="1100.83" ybr="397.97" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1294.11" ytl="385.91" xbr="1327.71" ybr="421.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="823.51" ytl="388.89" xbr="861.91" ybr="424.78" z_order="0">
+    </box>
+  </image>
+  <image id="107" name="frame_000107" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1088.74" ytl="366.43" xbr="1102.85" ybr="396.53" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1290.11" ytl="384.22" xbr="1323.21" ybr="418.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="828.10" ytl="390.20" xbr="864.70" ybr="425.20" z_order="0">
+    </box>
+  </image>
+  <image id="108" name="frame_000108" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1092.00" ytl="359.81" xbr="1105.59" ybr="390.05" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1283.91" ytl="382.81" xbr="1321.01" ybr="416.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="829.11" ytl="392.08" xbr="866.21" ybr="423.98" z_order="0">
+    </box>
+  </image>
+  <image id="109" name="frame_000109" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1094.89" ytl="355.09" xbr="1106.69" ybr="383.74" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1277.21" ytl="379.21" xbr="1313.61" ybr="410.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="831.00" ytl="391.30" xbr="867.10" ybr="424.40" z_order="0">
+    </box>
+  </image>
+  <image id="110" name="frame_000110" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1097.77" ytl="349.18" xbr="1107.27" ybr="377.71" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1274.41" ytl="376.12" xbr="1309.31" ybr="406.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="832.60" ytl="392.10" xbr="868.00" ybr="426.40" z_order="0">
+    </box>
+  </image>
+  <image id="111" name="frame_000111" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1099.06" ytl="343.57" xbr="1109.72" ybr="375.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1270.61" ytl="372.41" xbr="1302.71" ybr="403.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="833.30" ytl="394.20" xbr="870.30" ybr="426.70" z_order="0">
+    </box>
+  </image>
+  <image id="112" name="frame_000112" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1100.93" ytl="339.40" xbr="1112.70" ybr="367.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1266.11" ytl="367.72" xbr="1296.11" ybr="401.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="833.70" ytl="394.30" xbr="871.40" ybr="425.60" z_order="0">
+    </box>
+  </image>
+  <image id="113" name="frame_000113" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1103.67" ytl="336.51" xbr="1113.17" ybr="362.16" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1259.51" ytl="363.41" xbr="1287.72" ybr="400.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="835.90" ytl="396.90" xbr="872.80" ybr="425.70" z_order="0">
+    </box>
+  </image>
+  <image id="114" name="frame_000114" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1104.00" ytl="332.30" xbr="1115.23" ybr="359.66" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1253.71" ytl="360.41" xbr="1284.02" ybr="398.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="837.60" ytl="397.10" xbr="874.00" ybr="425.80" z_order="0">
+    </box>
+  </image>
+  <image id="115" name="frame_000115" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1104.80" ytl="327.27" xbr="1117.68" ybr="353.76" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1248.10" ytl="356.82" xbr="1285.02" ybr="393.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="844.30" ytl="398.20" xbr="877.40" ybr="426.30" z_order="0">
+    </box>
+  </image>
+  <image id="116" name="frame_000116" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1105.58" ytl="324.53" xbr="1118.98" ybr="349.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1243.61" ytl="354.91" xbr="1275.42" ybr="390.22" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="845.10" ytl="398.60" xbr="877.70" ybr="427.00" z_order="0">
+    </box>
+  </image>
+  <image id="117" name="frame_000117" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1107.74" ytl="321.79" xbr="1118.98" ybr="346.99" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1239.31" ytl="354.32" xbr="1270.21" ybr="386.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="845.60" ytl="396.20" xbr="880.90" ybr="427.10" z_order="0">
+    </box>
+  </image>
+  <image id="118" name="frame_000118" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1105.01" ytl="316.61" xbr="1120.56" ybr="341.38" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1235.61" ytl="351.51" xbr="1264.72" ybr="383.92" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="847.10" ytl="397.00" xbr="882.50" ybr="426.90" z_order="0">
+    </box>
+  </image>
+  <image id="119" name="frame_000119" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1106.59" ytl="311.42" xbr="1121.28" ybr="341.66" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1231.02" ytl="347.02" xbr="1258.22" ybr="377.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="849.00" ytl="398.20" xbr="884.30" ybr="427.50" z_order="0">
+    </box>
+  </image>
+  <image id="120" name="frame_000120" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1110.05" ytl="306.67" xbr="1122.86" ybr="337.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1227.51" ytl="343.31" xbr="1253.62" ybr="375.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="850.61" ytl="397.08" xbr="888.41" ybr="429.78" z_order="0">
+    </box>
+  </image>
+  <image id="121" name="frame_000121" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1111.73" ytl="303.39" xbr="1122.82" ybr="332.06" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1222.22" ytl="338.82" xbr="1246.82" ybr="374.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="852.50" ytl="395.80" xbr="889.00" ybr="429.80" z_order="0">
+    </box>
+  </image>
+  <image id="122" name="frame_000122" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1113.36" ytl="298.61" xbr="1125.02" ybr="327.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1218.01" ytl="334.21" xbr="1239.02" ybr="370.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="852.70" ytl="392.10" xbr="889.60" ybr="428.90" z_order="0">
+    </box>
+  </image>
+  <image id="123" name="frame_000123" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1113.50" ytl="294.14" xbr="1124.88" ybr="323.23" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1212.42" ytl="330.42" xbr="1235.42" ybr="366.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="854.90" ytl="396.78" xbr="891.31" ybr="429.09" z_order="0">
+    </box>
+  </image>
+  <image id="124" name="frame_000124" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1114.51" ytl="287.95" xbr="1125.31" ybr="317.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1207.61" ytl="328.01" xbr="1232.62" ybr="362.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="856.60" ytl="393.90" xbr="893.80" ybr="431.00" z_order="0">
+    </box>
+  </image>
+  <image id="125" name="frame_000125" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1116.49" ytl="278.91" xbr="1126.57" ybr="318.67" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1204.62" ytl="326.32" xbr="1226.72" ybr="357.72" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="860.00" ytl="393.10" xbr="896.50" ybr="432.50" z_order="0">
+    </box>
+  </image>
+  <image id="126" name="frame_000126" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1117.54" ytl="275.42" xbr="1128.48" ybr="313.73" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1199.81" ytl="324.81" xbr="1223.22" ybr="354.52" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="861.00" ytl="396.40" xbr="898.20" ybr="433.00" z_order="0">
+    </box>
+  </image>
+  <image id="127" name="frame_000127" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1119.37" ytl="272.57" xbr="1129.16" ybr="304.56" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1195.02" ytl="321.72" xbr="1221.92" ybr="350.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="862.50" ytl="399.30" xbr="900.20" ybr="433.40" z_order="0">
+    </box>
+  </image>
+  <image id="128" name="frame_000128" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1119.26" ytl="267.94" xbr="1128.91" ybr="302.35" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1189.81" ytl="319.31" xbr="1215.02" ybr="345.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="863.70" ytl="399.20" xbr="902.60" ybr="432.60" z_order="0">
+    </box>
+  </image>
+  <image id="129" name="frame_000129" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1118.54" ytl="265.06" xbr="1129.92" ybr="296.45" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1186.12" ytl="314.12" xbr="1206.42" ybr="340.82" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="864.30" ytl="396.90" xbr="905.10" ybr="434.00" z_order="0">
+    </box>
+  </image>
+  <image id="130" name="frame_000130" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1120.23" ytl="263.23" xbr="1130.89" ybr="293.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1181.61" ytl="310.61" xbr="1200.71" ybr="341.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="864.81" ytl="397.79" xbr="905.41" ybr="430.19" z_order="0">
+    </box>
+  </image>
+  <image id="131" name="frame_000131" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1120.13" ytl="261.74" xbr="1136.40" ybr="283.06" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1176.41" ytl="306.92" xbr="1195.91" ybr="338.32" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="868.40" ytl="399.70" xbr="908.40" ybr="433.20" z_order="0">
+    </box>
+  </image>
+  <image id="132" name="frame_000132" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1120.42" ytl="258.72" xbr="1136.11" ybr="286.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1172.20" ytl="303.20" xbr="1191.30" ybr="336.50" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="872.10" ytl="401.00" xbr="909.70" ybr="431.90" z_order="0">
+    </box>
+  </image>
+  <image id="133" name="frame_000133" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1122.53" ytl="258.61" xbr="1133.48" ybr="282.38" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1165.72" ytl="300.30" xbr="1188.62" ybr="334.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="874.00" ytl="402.40" xbr="912.60" ybr="432.80" z_order="0">
+    </box>
+  </image>
+  <image id="134" name="frame_000134" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1121.60" ytl="256.60" xbr="1133.95" ybr="281.33" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1161.82" ytl="297.69" xbr="1185.02" ybr="329.00" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="875.00" ytl="402.10" xbr="913.80" ybr="432.40" z_order="0">
+    </box>
+  </image>
+  <image id="135" name="frame_000135" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1120.85" ytl="253.39" xbr="1133.52" ybr="278.02" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1158.52" ytl="296.30" xbr="1180.12" ybr="326.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="879.10" ytl="402.40" xbr="916.10" ybr="433.30" z_order="0">
+    </box>
+  </image>
+  <image id="136" name="frame_000136" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1120.85" ytl="249.50" xbr="1134.24" ybr="276.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1156.12" ytl="295.29" xbr="1174.12" ybr="322.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="881.10" ytl="400.30" xbr="918.10" ybr="432.90" z_order="0">
+    </box>
+  </image>
+  <image id="137" name="frame_000137" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1120.52" ytl="246.94" xbr="1133.48" ybr="275.89" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1153.42" ytl="290.90" xbr="1169.32" ybr="318.70" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="882.80" ytl="399.58" xbr="920.61" ybr="432.89" z_order="0">
+    </box>
+  </image>
+  <image id="138" name="frame_000138" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1119.26" ytl="243.31" xbr="1131.94" ybr="270.53" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1149.32" ytl="286.99" xbr="1165.32" ybr="315.50" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="885.00" ytl="399.20" xbr="920.60" ybr="433.80" z_order="0">
+    </box>
+  </image>
+  <image id="139" name="frame_000139" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1119.26" ytl="242.45" xbr="1133.81" ybr="265.34" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1146.02" ytl="282.90" xbr="1161.72" ybr="313.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="888.50" ytl="404.90" xbr="923.00" ybr="435.30" z_order="0">
+    </box>
+  </image>
+  <image id="140" name="frame_000140" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1115.95" ytl="240.43" xbr="1130.50" ybr="261.89" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1144.02" ytl="278.19" xbr="1158.62" ybr="313.10" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="890.31" ytl="405.99" xbr="925.01" ybr="435.89" z_order="0">
+    </box>
+  </image>
+  <image id="141" name="frame_000141" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1116.20" ytl="239.32" xbr="1127.43" ybr="257.60" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1141.72" ytl="274.30" xbr="1156.42" ybr="310.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="891.20" ytl="405.08" xbr="926.91" ybr="436.69" z_order="0">
+    </box>
+  </image>
+  <image id="142" name="frame_000142" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1115.62" ytl="239.31" xbr="1128.73" ybr="257.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1139.51" ytl="271.99" xbr="1153.82" ybr="310.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="891.80" ytl="404.90" xbr="927.70" ybr="436.30" z_order="0">
+    </box>
+  </image>
+  <image id="143" name="frame_000143" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1112.64" ytl="236.54" xbr="1126.61" ybr="254.26" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1136.52" ytl="269.70" xbr="1151.12" ybr="301.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="893.00" ytl="402.98" xbr="929.91" ybr="437.19" z_order="0">
+    </box>
+  </image>
+  <image id="144" name="frame_000144" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1111.88" ytl="231.39" xbr="1125.70" ybr="253.42" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1136.32" ytl="267.29" xbr="1148.02" ybr="296.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="893.40" ytl="402.30" xbr="933.40" ybr="438.80" z_order="0">
+    </box>
+  </image>
+  <image id="145" name="frame_000145" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1111.63" ytl="228.77" xbr="1124.45" ybr="249.79" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1135.22" ytl="265.20" xbr="1145.92" ybr="292.90" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="893.70" ytl="403.78" xbr="934.71" ybr="438.99" z_order="0">
+    </box>
+  </image>
+  <image id="146" name="frame_000146" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1108.46" ytl="228.34" xbr="1122.43" ybr="247.49" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1132.82" ytl="261.60" xbr="1143.92" ybr="288.20" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="896.81" ytl="405.39" xbr="935.41" ybr="439.49" z_order="0">
+    </box>
+  </image>
+  <image id="147" name="frame_000147" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1104.53" ytl="224.91" xbr="1121.09" ybr="244.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1130.52" ytl="256.69" xbr="1142.22" ybr="283.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="901.20" ytl="407.50" xbr="937.70" ybr="440.30" z_order="0">
+    </box>
+  </image>
+  <image id="148" name="frame_000148" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1103.38" ytl="223.76" xbr="1118.50" ybr="242.62" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1129.01" ytl="250.54" xbr="1139.81" ybr="285.10" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="903.20" ytl="408.00" xbr="938.50" ybr="437.70" z_order="0">
+    </box>
+  </image>
+  <image id="149" name="frame_000149" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1101.41" ytl="222.72" xbr="1117.97" ybr="241.30" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1126.28" ytl="247.66" xbr="1139.09" ybr="281.50" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="906.90" ytl="409.70" xbr="940.70" ybr="439.10" z_order="0">
+    </box>
+  </image>
+  <image id="150" name="frame_000150" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1098.96" ytl="218.98" xbr="1116.53" ybr="237.98" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1124.41" ytl="245.50" xbr="1138.09" ybr="280.80" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="909.30" ytl="409.20" xbr="941.60" ybr="439.90" z_order="0">
+    </box>
+  </image>
+  <image id="151" name="frame_000151" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1097.52" ytl="216.96" xbr="1114.80" ybr="235.39" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1122.25" ytl="242.62" xbr="1136.50" ybr="275.47" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="910.10" ytl="406.48" xbr="943.71" ybr="440.99" z_order="0">
+    </box>
+  </image>
+  <image id="152" name="frame_000152" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1096.08" ytl="214.94" xbr="1115.81" ybr="236.40" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1118.36" ytl="239.74" xbr="1134.20" ybr="271.29" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="910.00" ytl="405.80" xbr="944.20" ybr="440.40" z_order="0">
+    </box>
+  </image>
+  <image id="153" name="frame_000153" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1096.22" ytl="213.50" xbr="1115.09" ybr="235.25" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1118.07" ytl="239.45" xbr="1132.04" ybr="266.97" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="913.70" ytl="404.50" xbr="946.30" ybr="440.80" z_order="0">
+    </box>
+  </image>
+  <image id="154" name="frame_000154" width="1920" height="1080">
+    <box label="dog" source="manual" occluded="0" xtl="1095.07" ytl="213.65" xbr="1115.38" ybr="229.06" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="1116.20" ytl="238.32" xbr="1129.88" ybr="263.08" z_order="0">
+    </box>
+    <box label="dog" source="manual" occluded="0" xtl="913.40" ytl="408.50" xbr="947.30" ybr="442.20" z_order="0">
+    </box>
+  </image>
+</annotations>

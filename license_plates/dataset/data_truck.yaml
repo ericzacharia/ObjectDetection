@@ -1,0 +1,6 @@
+names:
+- car
+- truck
+nc: 2
+train: /Users/eric/Desktop/2-Career/Projects/ObjectDetectionLL/license_plates/dataset/train/images
+val: /Users/eric/Desktop/2-Career/Projects/ObjectDetectionLL/license_plates/dataset/valid/images

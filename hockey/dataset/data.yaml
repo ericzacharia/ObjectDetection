@@ -1,0 +1,7 @@
+names:
+- skater
+- goalie
+- referee
+nc: 3
+train: /Users/eric/Desktop/2-Career/Projects/ObjectDetection/hockey/dataset/train/images
+val: /Users/eric/Desktop/2-Career/Projects/ObjectDetection/hockey/dataset/valid/images

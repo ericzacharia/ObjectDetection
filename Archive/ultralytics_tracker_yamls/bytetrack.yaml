@@ -1,0 +1,34 @@
+# Ultralytics YOLO 🚀, AGPL-3.0 license
+# Default YOLO tracker settings for ByteTrack tracker https://github.com/ifzhang/ByteTrack
+
+# tracker_type: This specifies the type of tracker being used. In your case, 'bytetrack' is selected. 
+# ByteTrack is known for its efficiency and accuracy in tracking multiple objects even with occlusions or in crowded scenes.
+
+# track_high_thresh: This is the high threshold for the first association in tracking. 
+# It's a confidence threshold used to determine if an object detected by the YOLO model should initially be considered for tracking. 
+# A higher threshold means only detections with high confidence are tracked, potentially reducing false positives but possibly missing less confident true objects.
+
+# track_low_thresh: This is the lower threshold for the second association. 
+# Once an object is being tracked, this threshold is used in subsequent frames to decide if a detected object continues to match with the existing track. 
+# A lower threshold here allows for more lenient tracking, which can be useful in maintaining track of objects even when the model's confidence in them dips temporarily.
+
+# new_track_thresh: This threshold is used to initiate a new track if a detection does not match any existing tracks. 
+# It determines how confident the model should be to start tracking a new object. 
+# A higher value means fewer new tracks will be created, reducing clutter but possibly missing real objects.
+
+# track_buffer: This setting determines the buffer time to calculate when to remove tracks. 
+# It's essentially the number of frames an object can be missing or not detected before its track is terminated. 
+# A larger buffer allows tracks to be maintained even when objects are occluded or miss detection for a few frames.
+
+# match_thresh: This is the threshold for matching tracks between frames. 
+# It's used in the data association step to decide whether a detected object in the current frame matches an existing track. 
+# A higher threshold ensures that only detections very similar to the existing track are matched, reducing identity switches but potentially losing track more often.
+
+tracker_type: bytetrack  # tracker type, ['botsort', 'bytetrack']
+track_high_thresh: 0.5  # threshold for the first association
+track_low_thresh: 0.1  # threshold for the second association
+new_track_thresh: 0.6  # threshold for init new track if the detection does not match any tracks
+track_buffer: 30  # buffer to calculate the time when to remove tracks
+match_thresh: 0.8  # threshold for matching tracks
+# min_box_area: 10  # threshold for min box areas(for tracker evaluation, not used for now)
+# mot20: False  # for tracker evaluation(not used for now)

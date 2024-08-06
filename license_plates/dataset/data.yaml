@@ -1,0 +1,5 @@
+names:
+- license plate
+nc: 1
+train: /Users/eric/Desktop/2-Career/Projects/ObjectDetection/license_plates/dataset/train/images
+val: /Users/eric/Desktop/2-Career/Projects/ObjectDetection/license_plates/dataset/valid/images

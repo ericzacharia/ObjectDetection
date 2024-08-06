@@ -1,0 +1,66 @@
+{
+    "licenses": [{
+        "name": "",
+        "id": 0,
+        "url": ""
+    }],
+    "info": {
+        "contributor": "",
+        "date_created": "",
+        "description": "",
+        "url": "",
+        "version": "",
+        "year": ""
+    },
+    "categories": [{
+        "id": 1,
+        "name": "license plate",
+        "supercategory": ""
+    }],
+    "images": [{
+        "id": 1,
+        "width": 3840,
+        "height": 2160,
+        "file_name": "0-00000.png",
+        "license": 0,
+        "flickr_url": "",
+        "coco_url": "",
+        "date_captured": 0
+    }, {
+        "id": 2,
+        "width": 3840,
+        "height": 2160,
+        "file_name": "0-00001.png",
+        "license": 0,
+        "flickr_url": "",
+        "coco_url": "",
+        "date_captured": 0
+    }],
+    "annotations": [{
+            "id": 1,
+            "image_id": 1,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 3972.843,
+            "bbox": [0.0, 886.28, 59.85, 66.38],
+            "iscrowd": 0,
+            "attributes": {
+                "occluded": false,
+                "rotation": 0.0
+            }
+        },
+        {
+            "id": 2,
+            "image_id": 2,
+            "category_id": 1,
+            "segmentation": [],
+            "area": 3972.843,
+            "bbox": [0.0, 886.28, 59.85, 66.38],
+            "iscrowd": 0,
+            "attributes": {
+                "occluded": false,
+                "rotation": 0.0
+            }
+        }
+    ]
+}
